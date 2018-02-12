@@ -1,0 +1,4 @@
+#step one
+latex a.tex
+#step two
+dvipdfm a.dvi
